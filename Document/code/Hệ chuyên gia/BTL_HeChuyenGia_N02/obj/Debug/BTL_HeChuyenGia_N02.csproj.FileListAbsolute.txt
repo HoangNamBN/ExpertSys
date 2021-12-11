@@ -1,0 +1,99 @@
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmGiaoDienChinh.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.Properties.Resources.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csproj.GenerateResource.Cache
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.exe
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.pdb
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.exe
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.pdb
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmTrieuChungBenh.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmChuanDoanBenh.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.UCtrlTrieuChungThuongGapNhat.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.UCtrlThongTinBoSung.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmSuKien.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmLuat.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmChonSuKien.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmNhapHeSoTinCay.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmQuanTriNguoiDung.resources
+D:\CSharp_VisualStudio2008\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmDangNhap.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.exe.config
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.exe
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.pdb
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmChonSuKien.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmChuanDoanBenh.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmLuat.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmNhapHeSoTinCay.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmSuKien.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmTrieuChungBenh.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.UCtrlThongTinBoSung.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.UCtrlTrieuChungThuongGapNhat.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmDangNhap.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmGiaoDienChinh.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmQuanTriNguoiDung.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.Properties.Resources.resources
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csproj.GenerateResource.Cache
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.exe
+C:\Users\MyPC\Desktop\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.pdb
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.exe.config
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.exe
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.pdb
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.exe
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.pdb
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmChonSuKien.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmChuanDoanBenh.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmLuat.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmNhapHeSoTinCay.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmSuKien.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmTrieuChungBenh.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.UCtrlThongTinBoSung.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.UCtrlTrieuChungThuongGapNhat.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmDangNhap.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmGiaoDienChinh.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmQuanTriNguoiDung.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.Properties.Resources.resources
+C:\Users\MyPC\Downloads\Documents\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csproj.GenerateResource.Cache
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.exe.config
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.exe
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.pdb
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csprojAssemblyReference.cache
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmChonSuKien.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmChuanDoanBenh.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmLuat.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmNhapHeSoTinCay.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmSuKien.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmTrieuChungBenh.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.UCtrlThongTinBoSung.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.UCtrlTrieuChungThuongGapNhat.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmDangNhap.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmGiaoDienChinh.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmQuanTriNguoiDung.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.Properties.Resources.resources
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csproj.GenerateResource.cache
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csproj.CoreCompileInputs.cache
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csproj.CopyComplete
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.exe
+E:\chuyennganh\kycuoi\chuandoanbenh\BTL_HeChuyenGia_N02\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.pdb
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.exe.config
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.exe
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\bin\Debug\BTL_HeChuyenGia_N02.pdb
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csprojAssemblyReference.cache
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmChonSuKien.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmChuanDoanBenh.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmLuat.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmNhapHeSoTinCay.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmSuKien.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.FrmTrieuChungBenh.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.UCtrlThongTinBoSung.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.ChuyenGia.UCtrlTrieuChungThuongGapNhat.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmDangNhap.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmGiaoDienChinh.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.HeThong.FrmQuanTriNguoiDung.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.Properties.Resources.resources
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csproj.GenerateResource.cache
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.csproj.CopyComplete
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.exe
+D:\NAM4-KY1\HE CHUYEN GIA\bao_cao_mau\Hệ chuyên gia\BTL_HeChuyenGia_N02\obj\Debug\BTL_HeChuyenGia_N02.pdb
