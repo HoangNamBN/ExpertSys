@@ -29,6 +29,7 @@ namespace diagnosisAnimal
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Symptom));
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.txtSearch = new System.Windows.Forms.TextBox();
             this.lstEvent = new System.Windows.Forms.ListBox();
@@ -50,7 +51,7 @@ namespace diagnosisAnimal
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 23F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(859, 682);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(859, 764);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // txtSearch
@@ -69,16 +70,19 @@ namespace diagnosisAnimal
             this.lstEvent.ItemHeight = 17;
             this.lstEvent.Location = new System.Drawing.Point(3, 26);
             this.lstEvent.Name = "lstEvent";
-            this.lstEvent.Size = new System.Drawing.Size(853, 653);
+            this.lstEvent.Size = new System.Drawing.Size(853, 735);
             this.lstEvent.TabIndex = 1;
             // 
             // btnQuayLai
             // 
+            this.btnQuayLai.Image = ((System.Drawing.Image)(resources.GetObject("btnQuayLai.Image")));
+            this.btnQuayLai.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnQuayLai.Location = new System.Drawing.Point(739, 712);
             this.btnQuayLai.Name = "btnQuayLai";
             this.btnQuayLai.Size = new System.Drawing.Size(108, 35);
             this.btnQuayLai.TabIndex = 1;
             this.btnQuayLai.Text = "Quay lại";
+            this.btnQuayLai.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnQuayLai.UseVisualStyleBackColor = true;
             this.btnQuayLai.Click += new System.EventHandler(this.btnQuayLai_Click);
             // 

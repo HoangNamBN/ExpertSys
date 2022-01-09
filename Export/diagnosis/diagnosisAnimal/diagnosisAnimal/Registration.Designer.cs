@@ -29,6 +29,7 @@ namespace diagnosisAnimal
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Registration));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -145,10 +146,11 @@ namespace diagnosisAnimal
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(169, 369);
+            this.button1.Location = new System.Drawing.Point(152, 369);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(98, 43);
+            this.button1.Size = new System.Drawing.Size(109, 43);
             this.button1.TabIndex = 13;
             this.button1.Text = "Thoát";
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -162,6 +164,7 @@ namespace diagnosisAnimal
             this.btnDangKy.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDangKy.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDangKy.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnDangKy.Image = ((System.Drawing.Image)(resources.GetObject("btnDangKy.Image")));
             this.btnDangKy.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnDangKy.Location = new System.Drawing.Point(24, 369);
             this.btnDangKy.Name = "btnDangKy";
@@ -174,14 +177,15 @@ namespace diagnosisAnimal
             // 
             // btnQuayLai
             // 
-            this.btnQuayLai.BackColor = System.Drawing.Color.MediumBlue;
+            this.btnQuayLai.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             this.btnQuayLai.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnQuayLai.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnQuayLai.ForeColor = System.Drawing.Color.White;
+            this.btnQuayLai.Image = ((System.Drawing.Image)(resources.GetObject("btnQuayLai.Image")));
             this.btnQuayLai.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnQuayLai.Location = new System.Drawing.Point(283, 369);
+            this.btnQuayLai.Location = new System.Drawing.Point(267, 369);
             this.btnQuayLai.Name = "btnQuayLai";
-            this.btnQuayLai.Size = new System.Drawing.Size(98, 43);
+            this.btnQuayLai.Size = new System.Drawing.Size(114, 43);
             this.btnQuayLai.TabIndex = 14;
             this.btnQuayLai.Text = "Quay lại";
             this.btnQuayLai.TextAlign = System.Drawing.ContentAlignment.MiddleRight;

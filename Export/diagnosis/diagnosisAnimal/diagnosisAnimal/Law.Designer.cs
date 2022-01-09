@@ -175,6 +175,7 @@ namespace diagnosisAnimal
             this.dgvLaw.RowTemplate.Height = 24;
             this.dgvLaw.Size = new System.Drawing.Size(931, 357);
             this.dgvLaw.TabIndex = 7;
+            this.dgvLaw.SelectionChanged += new System.EventHandler(this.dgvLaw_SelectionChanged);
             // 
             // btnSave
             // 

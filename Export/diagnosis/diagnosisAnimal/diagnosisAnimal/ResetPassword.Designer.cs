@@ -29,6 +29,7 @@ namespace diagnosisAnimal
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ResetPassword));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -120,6 +121,7 @@ namespace diagnosisAnimal
             this.btnYes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnYes.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnYes.ForeColor = System.Drawing.Color.White;
+            this.btnYes.Image = ((System.Drawing.Image)(resources.GetObject("btnYes.Image")));
             this.btnYes.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnYes.Location = new System.Drawing.Point(32, 289);
             this.btnYes.Name = "btnYes";
@@ -137,6 +139,7 @@ namespace diagnosisAnimal
             this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnExit.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExit.ForeColor = System.Drawing.Color.White;
+            this.btnExit.Image = ((System.Drawing.Image)(resources.GetObject("btnExit.Image")));
             this.btnExit.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnExit.Location = new System.Drawing.Point(264, 289);
             this.btnExit.Name = "btnExit";
@@ -189,6 +192,7 @@ namespace diagnosisAnimal
             this.btnQuaylai.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnQuaylai.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnQuaylai.ForeColor = System.Drawing.Color.White;
+            this.btnQuaylai.Image = ((System.Drawing.Image)(resources.GetObject("btnQuaylai.Image")));
             this.btnQuaylai.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnQuaylai.Location = new System.Drawing.Point(151, 289);
             this.btnQuaylai.Name = "btnQuaylai";

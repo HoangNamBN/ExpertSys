@@ -30,6 +30,7 @@ namespace diagnosisAnimal
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Home));
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.HomePage = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýHệThốngToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -85,7 +86,7 @@ namespace diagnosisAnimal
             this.eventThoat});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(782, 45);
+            this.menuStrip1.Size = new System.Drawing.Size(723, 45);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -156,28 +157,28 @@ namespace diagnosisAnimal
             // triệuChứngBệnhToolStripMenuItem
             // 
             this.triệuChứngBệnhToolStripMenuItem.Name = "triệuChứngBệnhToolStripMenuItem";
-            this.triệuChứngBệnhToolStripMenuItem.Size = new System.Drawing.Size(217, 26);
+            this.triệuChứngBệnhToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.triệuChứngBệnhToolStripMenuItem.Text = "Triệu chứng bệnh";
             this.triệuChứngBệnhToolStripMenuItem.Click += new System.EventHandler(this.triệuChứngBệnhToolStripMenuItem_Click);
             // 
             // chuẩnĐoánBệnhToolStripMenuItem
             // 
             this.chuẩnĐoánBệnhToolStripMenuItem.Name = "chuẩnĐoánBệnhToolStripMenuItem";
-            this.chuẩnĐoánBệnhToolStripMenuItem.Size = new System.Drawing.Size(217, 26);
+            this.chuẩnĐoánBệnhToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.chuẩnĐoánBệnhToolStripMenuItem.Text = "Chuẩn đoán bệnh";
             this.chuẩnĐoánBệnhToolStripMenuItem.Click += new System.EventHandler(this.chuẩnĐoánBệnhToolStripMenuItem_Click);
             // 
             // sựKiệnToolStripMenuItem
             // 
             this.sựKiệnToolStripMenuItem.Name = "sựKiệnToolStripMenuItem";
-            this.sựKiệnToolStripMenuItem.Size = new System.Drawing.Size(217, 26);
+            this.sựKiệnToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.sựKiệnToolStripMenuItem.Text = "Sự kiện";
             this.sựKiệnToolStripMenuItem.Click += new System.EventHandler(this.sựKiệnToolStripMenuItem_Click);
             // 
             // cácLuậtToolStripMenuItem
             // 
             this.cácLuậtToolStripMenuItem.Name = "cácLuậtToolStripMenuItem";
-            this.cácLuậtToolStripMenuItem.Size = new System.Drawing.Size(217, 26);
+            this.cácLuậtToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.cácLuậtToolStripMenuItem.Text = "Các luật";
             this.cácLuậtToolStripMenuItem.Click += new System.EventHandler(this.cácLuậtToolStripMenuItem_Click);
             // 
@@ -200,7 +201,7 @@ namespace diagnosisAnimal
             this.groupBox1.ForeColor = System.Drawing.Color.White;
             this.groupBox1.Location = new System.Drawing.Point(15, 56);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(235, 93);
+            this.groupBox1.Size = new System.Drawing.Size(220, 93);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Số lượng người dùng";
@@ -219,7 +220,7 @@ namespace diagnosisAnimal
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(76, 62);
+            this.label3.Location = new System.Drawing.Point(60, 62);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(75, 18);
             this.label3.TabIndex = 9;
@@ -244,9 +245,9 @@ namespace diagnosisAnimal
             this.groupBox2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.groupBox2.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.ForeColor = System.Drawing.Color.White;
-            this.groupBox2.Location = new System.Drawing.Point(297, 56);
+            this.groupBox2.Location = new System.Drawing.Point(276, 56);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(223, 93);
+            this.groupBox2.Size = new System.Drawing.Size(202, 93);
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Số lượng luật";
@@ -254,7 +255,7 @@ namespace diagnosisAnimal
             // lbLuat
             // 
             this.lbLuat.AutoSize = true;
-            this.lbLuat.Location = new System.Drawing.Point(79, 32);
+            this.lbLuat.Location = new System.Drawing.Point(48, 32);
             this.lbLuat.Name = "lbLuat";
             this.lbLuat.Size = new System.Drawing.Size(0, 17);
             this.lbLuat.TabIndex = 11;
@@ -265,7 +266,7 @@ namespace diagnosisAnimal
             this.lbsoluongsanpham.AutoSize = true;
             this.lbsoluongsanpham.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbsoluongsanpham.ForeColor = System.Drawing.Color.White;
-            this.lbsoluongsanpham.Location = new System.Drawing.Point(79, 62);
+            this.lbsoluongsanpham.Location = new System.Drawing.Point(62, 62);
             this.lbsoluongsanpham.Name = "lbsoluongsanpham";
             this.lbsoluongsanpham.Size = new System.Drawing.Size(75, 18);
             this.lbsoluongsanpham.TabIndex = 10;
@@ -278,9 +279,9 @@ namespace diagnosisAnimal
             this.groupBox3.Controls.Add(this.lbsoluongkhachhang);
             this.groupBox3.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox3.ForeColor = System.Drawing.Color.White;
-            this.groupBox3.Location = new System.Drawing.Point(561, 56);
+            this.groupBox3.Location = new System.Drawing.Point(526, 56);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(210, 93);
+            this.groupBox3.Size = new System.Drawing.Size(186, 93);
             this.groupBox3.TabIndex = 6;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Số lượng sự kiện";
@@ -288,7 +289,7 @@ namespace diagnosisAnimal
             // lbSuKien
             // 
             this.lbSuKien.AutoSize = true;
-            this.lbSuKien.Location = new System.Drawing.Point(51, 32);
+            this.lbSuKien.Location = new System.Drawing.Point(35, 32);
             this.lbSuKien.Name = "lbSuKien";
             this.lbSuKien.Size = new System.Drawing.Size(0, 17);
             this.lbSuKien.TabIndex = 12;
@@ -299,7 +300,7 @@ namespace diagnosisAnimal
             this.lbsoluongkhachhang.AutoSize = true;
             this.lbsoluongkhachhang.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbsoluongkhachhang.ForeColor = System.Drawing.Color.White;
-            this.lbsoluongkhachhang.Location = new System.Drawing.Point(76, 62);
+            this.lbsoluongkhachhang.Location = new System.Drawing.Point(60, 62);
             this.lbsoluongkhachhang.Name = "lbsoluongkhachhang";
             this.lbsoluongkhachhang.Size = new System.Drawing.Size(75, 18);
             this.lbsoluongkhachhang.TabIndex = 11;
@@ -310,7 +311,7 @@ namespace diagnosisAnimal
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 593);
+            this.label1.Location = new System.Drawing.Point(18, 678);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(196, 17);
             this.label1.TabIndex = 8;
@@ -323,7 +324,7 @@ namespace diagnosisAnimal
             this.btPrevious.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btPrevious.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btPrevious.ForeColor = System.Drawing.Color.White;
-            this.btPrevious.Location = new System.Drawing.Point(220, 511);
+            this.btPrevious.Location = new System.Drawing.Point(189, 593);
             this.btPrevious.Name = "btPrevious";
             this.btPrevious.Size = new System.Drawing.Size(100, 33);
             this.btPrevious.TabIndex = 10;
@@ -338,7 +339,7 @@ namespace diagnosisAnimal
             this.btnOpenFolder.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOpenFolder.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOpenFolder.ForeColor = System.Drawing.Color.White;
-            this.btnOpenFolder.Location = new System.Drawing.Point(326, 511);
+            this.btnOpenFolder.Location = new System.Drawing.Point(295, 593);
             this.btnOpenFolder.Name = "btnOpenFolder";
             this.btnOpenFolder.Size = new System.Drawing.Size(125, 33);
             this.btnOpenFolder.TabIndex = 11;
@@ -353,7 +354,7 @@ namespace diagnosisAnimal
             this.btnNext.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNext.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNext.ForeColor = System.Drawing.Color.White;
-            this.btnNext.Location = new System.Drawing.Point(454, 511);
+            this.btnNext.Location = new System.Drawing.Point(423, 593);
             this.btnNext.Name = "btnNext";
             this.btnNext.Size = new System.Drawing.Size(86, 33);
             this.btnNext.TabIndex = 12;
@@ -368,7 +369,7 @@ namespace diagnosisAnimal
             this.btnstart.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnstart.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnstart.ForeColor = System.Drawing.Color.White;
-            this.btnstart.Location = new System.Drawing.Point(220, 550);
+            this.btnstart.Location = new System.Drawing.Point(189, 632);
             this.btnstart.Name = "btnstart";
             this.btnstart.Size = new System.Drawing.Size(320, 32);
             this.btnstart.TabIndex = 13;
@@ -385,9 +386,10 @@ namespace diagnosisAnimal
             // 
             this.picImageSlideShow.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.picImageSlideShow.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.picImageSlideShow.Location = new System.Drawing.Point(12, 155);
+            this.picImageSlideShow.Image = ((System.Drawing.Image)(resources.GetObject("picImageSlideShow.Image")));
+            this.picImageSlideShow.Location = new System.Drawing.Point(16, 165);
             this.picImageSlideShow.Name = "picImageSlideShow";
-            this.picImageSlideShow.Size = new System.Drawing.Size(766, 350);
+            this.picImageSlideShow.Size = new System.Drawing.Size(696, 409);
             this.picImageSlideShow.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picImageSlideShow.TabIndex = 14;
             this.picImageSlideShow.TabStop = false;
@@ -397,7 +399,7 @@ namespace diagnosisAnimal
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(783, 622);
+            this.ClientSize = new System.Drawing.Size(724, 701);
             this.Controls.Add(this.picImageSlideShow);
             this.Controls.Add(this.btnstart);
             this.Controls.Add(this.btnNext);

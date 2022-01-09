@@ -54,39 +54,11 @@ namespace diagnosisAnimal
             txtEvent.DataBindings.Add("text", dtLaw, "CacSuKien", false, DataSourceUpdateMode.Never);
         }
 
-        public void ThietLapTTCacControl()
-        {
-            if (cheDo == 0)
-            {
-                btnAdd.Enabled = true;
-                btnEdit.Enabled = true;
-                btnSave.Enabled = false;
-                btnRemove.Enabled = true;
-                txtLawName.ReadOnly = true;
-                btnChooseEvent.Enabled = false;
-                if (dgvLaw.Rows.Count < 1)
-                {
-                    btnEdit.Enabled = false;
-                    btnSave.Enabled = false;
-                    btnRemove.Enabled = false;
-                }
-            }
-            else
-            {
-                btnAdd.Enabled = false;
-                btnEdit.Enabled = false;
-                btnSave.Enabled = true;
-                btnRemove.Enabled = false;
-                txtLawName.ReadOnly = false;
-                btnChooseEvent.Enabled = true;
-            }
-        }
 
         private void Law_Load(object sender, EventArgs e)
         {
             ShowLaw();
             txtSearch_TextChanged(sender, e);
-            ThietLapTTCacControl();
         }
 
         private void btnChooseEvent_Click(object sender, EventArgs e)
@@ -113,7 +85,9 @@ namespace diagnosisAnimal
 
         private void btnBreak_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Home home = new Home();
+            this.Hide();
+            home.Show();
         }
 
         private void btnRemove_Click(object sender, EventArgs e)
@@ -138,7 +112,6 @@ namespace diagnosisAnimal
         private void btnAdd_Click(object sender, EventArgs e)
         {
             cheDo = 1;
-            ThietLapTTCacControl();
             txtEvent.Text = "";
             txtLawName.Text = "";
             txtLawName.Focus();
@@ -150,7 +123,6 @@ namespace diagnosisAnimal
             {
                 dtEvent = dataProcess.getData("Select s.idEvent, EventName, HeSoTinCay From Event s Inner Join EventLaw lsk On " + "s.idEvent = lsk.idEvent Where idLaw = " + idLaw);
                 cheDo = 2;
-                ThietLapTTCacControl();
             }
             catch { }
         }
@@ -193,6 +165,21 @@ namespace diagnosisAnimal
         private void txtSearch_TextChanged(object sender, EventArgs e)
         {
             dtLaw.DefaultView.RowFilter = "LawName Like '%" + txtSearch.Text + "%'";
+        }
+
+        private void dgvLaw_SelectionChanged(object sender, EventArgs e)
+        {
+            cheDo = 0;
+            try
+            {
+                int dong = dgvLaw.CurrentRow.Index;
+                idLaw = dgvLaw.Rows[dong].Cells[0].Value.ToString();
+            }
+            catch
+            {
+                btnRemove.Enabled = false;
+                btnEdit.Enabled = false;
+            }
         }
     }
 }
