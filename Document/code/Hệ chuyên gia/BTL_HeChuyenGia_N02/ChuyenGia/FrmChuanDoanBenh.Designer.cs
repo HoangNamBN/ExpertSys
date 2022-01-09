@@ -141,7 +141,6 @@ namespace BTL_HeChuyenGia_N02.ChuyenGia
             // 
             // btnTiep
             // 
-            this.btnTiep.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.Tiep;
             this.btnTiep.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnTiep.Location = new System.Drawing.Point(18, 3);
             this.btnTiep.Name = "btnTiep";
@@ -154,7 +153,6 @@ namespace BTL_HeChuyenGia_N02.ChuyenGia
             // 
             // btnKetThuc
             // 
-            this.btnKetThuc.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.KetThuc;
             this.btnKetThuc.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnKetThuc.Location = new System.Drawing.Point(99, 3);
             this.btnKetThuc.Name = "btnKetThuc";
@@ -167,7 +165,6 @@ namespace BTL_HeChuyenGia_N02.ChuyenGia
             // 
             // btnLamLai
             // 
-            this.btnLamLai.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.TaiLai;
             this.btnLamLai.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnLamLai.Location = new System.Drawing.Point(180, 3);
             this.btnLamLai.Name = "btnLamLai";

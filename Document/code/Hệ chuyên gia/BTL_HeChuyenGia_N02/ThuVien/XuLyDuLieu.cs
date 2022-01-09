@@ -21,7 +21,7 @@ namespace BTL_HeChuyenGia_N02.ThuVien
 
         public XuLyDuLieu()
         {
-            strConn = @"Data Source=ADMIN\SQLEXPRESS;Initial Catalog=ChuanDoanBenh;Integrated Security=True";
+            strConn = @"Data Source=DESKTOP-HE9DPLI\SQLEXPRESS;Initial Catalog=ChuanDoanBenh;Integrated Security=True";
             conn = new SqlConnection(strConn);
         }
 

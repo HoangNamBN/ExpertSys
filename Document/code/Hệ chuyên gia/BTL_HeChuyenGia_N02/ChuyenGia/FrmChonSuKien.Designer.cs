@@ -48,7 +48,6 @@
             // 
             // btnDong
             // 
-            this.btnDong.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.Thoat;
             this.btnDong.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnDong.Location = new System.Drawing.Point(693, 419);
             this.btnDong.Name = "btnDong";

@@ -165,7 +165,6 @@
             // btnThem
             // 
             this.btnThem.AutoSize = false;
-            this.btnThem.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.Them;
             this.btnThem.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 35);
@@ -175,7 +174,6 @@
             // btnSua
             // 
             this.btnSua.AutoSize = false;
-            this.btnSua.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.Sua;
             this.btnSua.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 35);
@@ -185,7 +183,6 @@
             // btnLuu
             // 
             this.btnLuu.AutoSize = false;
-            this.btnLuu.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.Luu;
             this.btnLuu.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnLuu.Name = "btnLuu";
             this.btnLuu.Size = new System.Drawing.Size(75, 35);
@@ -195,7 +192,6 @@
             // btnXoa
             // 
             this.btnXoa.AutoSize = false;
-            this.btnXoa.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.Xoa;
             this.btnXoa.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 35);
@@ -205,7 +201,6 @@
             // btnThoat
             // 
             this.btnThoat.AutoSize = false;
-            this.btnThoat.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.Thoat;
             this.btnThoat.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(75, 35);
@@ -229,7 +224,6 @@
             // toolStripLabel1
             // 
             this.toolStripLabel1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
-            this.toolStripLabel1.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.TimKiem;
             this.toolStripLabel1.Name = "toolStripLabel1";
             this.toolStripLabel1.Size = new System.Drawing.Size(16, 34);
             this.toolStripLabel1.Text = "toolStripLabel1";

@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D24419A1-D0FE-486D-990E-FCC4AC50D955}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>diagnosisAnimal</RootNamespace>
+    <AssemblyName>diagnosisAnimal</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\..\..\..\Document\code\Hệ chuyên gia\BTL_HeChuyenGia_N02\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdditionInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdditionInfo.Designer.cs">
+      <DependentUpon>AdditionInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonSymptoms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CommonSymptoms.Designer.cs">
+      <DependentUpon>CommonSymptoms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Diagosis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Diagosis.Designer.cs">
+      <DependentUpon>Diagosis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Envent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Envent.Designer.cs">
+      <DependentUpon>Envent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="General\Connect.cs" />
+    <Compile Include="General\DataProcess.cs" />
+    <Compile Include="General\LawData.cs" />
+    <Compile Include="General\MyEventArgs.cs" />
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Law.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Law.Designer.cs">
+      <DependentUpon>Law.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageUser.Designer.cs">
+      <DependentUpon>ManageUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReliabilitCoef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReliabilitCoef.Designer.cs">
+      <DependentUpon>ReliabilitCoef.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResetPassword.Designer.cs">
+      <DependentUpon>ResetPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectEvent.Designer.cs">
+      <DependentUpon>SelectEvent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Symptom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Symptom.Designer.cs">
+      <DependentUpon>Symptom.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdditionInfo.resx">
+      <DependentUpon>AdditionInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonSymptoms.resx">
+      <DependentUpon>CommonSymptoms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Diagosis.resx">
+      <DependentUpon>Diagosis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Envent.resx">
+      <DependentUpon>Envent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Law.resx">
+      <DependentUpon>Law.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageUser.resx">
+      <DependentUpon>ManageUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReliabilitCoef.resx">
+      <DependentUpon>ReliabilitCoef.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResetPassword.resx">
+      <DependentUpon>ResetPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectEvent.resx">
+      <DependentUpon>SelectEvent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Symptom.resx">
+      <DependentUpon>Symptom.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="icon\icon1\image14.webp" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="icon\icon1\Accounting.png" />
+    <Content Include="icon\icon1\Cancel.png" />
+    <Content Include="icon\icon1\Delete.png" />
+    <Content Include="icon\icon1\excel.PNG" />
+    <Content Include="icon\icon1\excel1.PNG" />
+    <Content Include="icon\icon1\Go back.png" />
+    <Content Include="icon\icon1\Help book.png" />
+    <Content Include="icon\icon1\Hethong.ico" />
+    <Content Include="icon\icon1\iconthoigian.jpg" />
+    <Content Include="icon\icon1\image02.jpg" />
+    <Content Include="icon\icon1\image1.jpg" />
+    <Content Include="icon\icon1\image10.jpg" />
+    <Content Include="icon\icon1\image11.png" />
+    <Content Include="icon\icon1\image12.jpg" />
+    <Content Include="icon\icon1\image13.png" />
+    <Content Include="icon\icon1\image14.png" />
+    <Content Include="icon\icon1\image15.png" />
+    <Content Include="icon\icon1\image17.jpg" />
+    <Content Include="icon\icon1\image18.png" />
+    <Content Include="icon\icon1\image2.png" />
+    <Content Include="icon\icon1\image3.jpg" />
+    <Content Include="icon\icon1\image4.jpg" />
+    <Content Include="icon\icon1\image5.jpg" />
+    <Content Include="icon\icon1\image6.png" />
+    <Content Include="icon\icon1\image7.png" />
+    <Content Include="icon\icon1\image8.png" />
+    <Content Include="icon\icon1\image9.jpg" />
+    <Content Include="icon\icon1\LapPhieu.png" />
+    <Content Include="icon\icon1\List.png" />
+    <Content Include="icon\icon1\ncc.png" />
+    <Content Include="icon\icon1\off.png" />
+    <Content Include="icon\icon1\Pinion.png" />
+    <Content Include="icon\icon1\Print.png" />
+    <Content Include="icon\icon1\Save.png" />
+    <Content Include="icon\icon1\sua.png" />
+    <Content Include="icon\icon1\Table.png" />
+    <Content Include="icon\icon1\Text preview.png" />
+    <Content Include="icon\icon1\them.png" />
+    <Content Include="icon\icon1\tim.png" />
+    <Content Include="icon\icon1\Trackback.png" />
+    <Content Include="icon\icon1\Turn off.png" />
+    <Content Include="icon\icon1\Update.png" />
+    <Content Include="icon\icon1\User group.png" />
+    <Content Include="icon\icon2\DongY.png" />
+    <Content Include="icon\icon2\HuyBo.png" />
+    <Content Include="icon\icon2\KetThuc.png" />
+    <Content Include="icon\icon2\Luu.png" />
+    <Content Include="icon\icon2\Sua.png" />
+    <Content Include="icon\icon2\TaiLai.png" />
+    <Content Include="icon\icon2\Them.png" />
+    <Content Include="icon\icon2\Thoat.png" />
+    <Content Include="icon\icon2\Tiep.png" />
+    <Content Include="icon\icon2\TimKiem.png" />
+    <Content Include="icon\icon2\Xoa.png" />
+    <Content Include="Resources\Delete.png" />
+    <Content Include="Resources\Delete1.png" />
+    <Content Include="Resources\Delete2.png" />
+    <Content Include="Resources\dmsp.jpg" />
+    <Content Include="Resources\dmsp1.jpg" />
+    <Content Include="Resources\dmsp2.jpg" />
+    <Content Include="Resources\image02.jpg" />
+    <Content Include="Resources\image1.ico" />
+    <Content Include="Resources\image1.jpg" />
+    <Content Include="Resources\image17.jpg" />
+    <Content Include="Resources\image2.png" />
+    <Content Include="Resources\image7.png" />
+    <Content Include="Resources\latop.png" />
+    <Content Include="Resources\ncc.png" />
+    <Content Include="Resources\qlnv.jpg" />
+    <Content Include="Resources\sua.png" />
+    <Content Include="Resources\Table.png" />
+    <Content Include="Resources\them.png" />
+    <Content Include="Resources\tim.png" />
+    <Content Include="Resources\tim1.png" />
+    <Content Include="Resources\Trackback.png" />
+    <Content Include="Resources\Update.png" />
+    <Content Include="Resources\User group.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

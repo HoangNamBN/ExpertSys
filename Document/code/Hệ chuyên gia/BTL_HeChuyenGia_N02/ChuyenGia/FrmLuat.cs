@@ -235,5 +235,10 @@ namespace BTL_HeChuyenGia_N02.ChuyenGia
         {
             this.Close();
         }
+
+        private void txtTimKiem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

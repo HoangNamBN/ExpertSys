@@ -48,7 +48,6 @@
             // 
             // btnThoat
             // 
-            this.btnThoat.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.Thoat;
             this.btnThoat.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnThoat.Location = new System.Drawing.Point(704, 408);
             this.btnThoat.Name = "btnThoat";
@@ -61,7 +60,6 @@
             // 
             // btnXoa
             // 
-            this.btnXoa.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.Xoa;
             this.btnXoa.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnXoa.Location = new System.Drawing.Point(623, 408);
             this.btnXoa.Name = "btnXoa";
@@ -74,7 +72,6 @@
             // 
             // btnLuu
             // 
-            this.btnLuu.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.Luu;
             this.btnLuu.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnLuu.Location = new System.Drawing.Point(542, 408);
             this.btnLuu.Name = "btnLuu";

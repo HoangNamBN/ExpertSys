@@ -50,7 +50,7 @@ namespace BTL_HeChuyenGia_N02.ChuyenGia
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 23F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(238, 473);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(349, 332);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // txtTimKiem
@@ -58,7 +58,7 @@ namespace BTL_HeChuyenGia_N02.ChuyenGia
             this.txtTimKiem.Dock = System.Windows.Forms.DockStyle.Fill;
             this.txtTimKiem.Location = new System.Drawing.Point(3, 3);
             this.txtTimKiem.Name = "txtTimKiem";
-            this.txtTimKiem.Size = new System.Drawing.Size(232, 23);
+            this.txtTimKiem.Size = new System.Drawing.Size(343, 23);
             this.txtTimKiem.TabIndex = 0;
             this.txtTimKiem.TextChanged += new System.EventHandler(this.txtTimKiem_TextChanged);
             // 
@@ -69,14 +69,14 @@ namespace BTL_HeChuyenGia_N02.ChuyenGia
             this.lstSuKien.ItemHeight = 17;
             this.lstSuKien.Location = new System.Drawing.Point(3, 26);
             this.lstSuKien.Name = "lstSuKien";
-            this.lstSuKien.Size = new System.Drawing.Size(232, 444);
+            this.lstSuKien.Size = new System.Drawing.Size(343, 303);
             this.lstSuKien.TabIndex = 1;
             // 
             // FrmTrieuChungBenh
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(238, 473);
+            this.ClientSize = new System.Drawing.Size(349, 332);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Name = "FrmTrieuChungBenh";

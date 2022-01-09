@@ -48,7 +48,7 @@
             this.cboTrieuChungThuongGapNhat.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.ListItems;
             this.cboTrieuChungThuongGapNhat.FormattingEnabled = true;
             this.cboTrieuChungThuongGapNhat.Location = new System.Drawing.Point(20, 53);
-            this.cboTrieuChungThuongGapNhat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cboTrieuChungThuongGapNhat.Margin = new System.Windows.Forms.Padding(4);
             this.cboTrieuChungThuongGapNhat.Name = "cboTrieuChungThuongGapNhat";
             this.cboTrieuChungThuongGapNhat.Size = new System.Drawing.Size(232, 24);
             this.cboTrieuChungThuongGapNhat.TabIndex = 1;
@@ -59,9 +59,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.cboTrieuChungThuongGapNhat);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "UCtrlTrieuChungThuongGapNhat";
-            this.Size = new System.Drawing.Size(872, 97);
+            this.Size = new System.Drawing.Size(340, 164);
             this.Load += new System.EventHandler(this.UCtrlTrieuChungThuongGapNhat_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

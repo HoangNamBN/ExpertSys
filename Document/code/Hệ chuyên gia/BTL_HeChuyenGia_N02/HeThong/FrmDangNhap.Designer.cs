@@ -71,7 +71,6 @@
             // 
             // btnHuyBo
             // 
-            this.btnHuyBo.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.HuyBo;
             this.btnHuyBo.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnHuyBo.Location = new System.Drawing.Point(261, 73);
             this.btnHuyBo.Name = "btnHuyBo";
@@ -84,7 +83,6 @@
             // 
             // btnDangNhap
             // 
-            this.btnDangNhap.Image = global::BTL_HeChuyenGia_N02.Properties.Resources.DongY;
             this.btnDangNhap.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnDangNhap.Location = new System.Drawing.Point(167, 73);
             this.btnDangNhap.Name = "btnDangNhap";
