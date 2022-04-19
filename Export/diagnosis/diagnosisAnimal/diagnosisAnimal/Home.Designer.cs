@@ -86,7 +86,7 @@ namespace diagnosisAnimal
             this.eventThoat});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(723, 45);
+            this.menuStrip1.Size = new System.Drawing.Size(721, 45);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -157,28 +157,28 @@ namespace diagnosisAnimal
             // triệuChứngBệnhToolStripMenuItem
             // 
             this.triệuChứngBệnhToolStripMenuItem.Name = "triệuChứngBệnhToolStripMenuItem";
-            this.triệuChứngBệnhToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.triệuChứngBệnhToolStripMenuItem.Size = new System.Drawing.Size(217, 26);
             this.triệuChứngBệnhToolStripMenuItem.Text = "Triệu chứng bệnh";
             this.triệuChứngBệnhToolStripMenuItem.Click += new System.EventHandler(this.triệuChứngBệnhToolStripMenuItem_Click);
             // 
             // chuẩnĐoánBệnhToolStripMenuItem
             // 
             this.chuẩnĐoánBệnhToolStripMenuItem.Name = "chuẩnĐoánBệnhToolStripMenuItem";
-            this.chuẩnĐoánBệnhToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.chuẩnĐoánBệnhToolStripMenuItem.Size = new System.Drawing.Size(217, 26);
             this.chuẩnĐoánBệnhToolStripMenuItem.Text = "Chuẩn đoán bệnh";
             this.chuẩnĐoánBệnhToolStripMenuItem.Click += new System.EventHandler(this.chuẩnĐoánBệnhToolStripMenuItem_Click);
             // 
             // sựKiệnToolStripMenuItem
             // 
             this.sựKiệnToolStripMenuItem.Name = "sựKiệnToolStripMenuItem";
-            this.sựKiệnToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.sựKiệnToolStripMenuItem.Size = new System.Drawing.Size(217, 26);
             this.sựKiệnToolStripMenuItem.Text = "Sự kiện";
             this.sựKiệnToolStripMenuItem.Click += new System.EventHandler(this.sựKiệnToolStripMenuItem_Click);
             // 
             // cácLuậtToolStripMenuItem
             // 
             this.cácLuậtToolStripMenuItem.Name = "cácLuậtToolStripMenuItem";
-            this.cácLuậtToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.cácLuậtToolStripMenuItem.Size = new System.Drawing.Size(217, 26);
             this.cácLuậtToolStripMenuItem.Text = "Các luật";
             this.cácLuậtToolStripMenuItem.Click += new System.EventHandler(this.cácLuậtToolStripMenuItem_Click);
             // 
@@ -201,7 +201,7 @@ namespace diagnosisAnimal
             this.groupBox1.ForeColor = System.Drawing.Color.White;
             this.groupBox1.Location = new System.Drawing.Point(15, 56);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(220, 93);
+            this.groupBox1.Size = new System.Drawing.Size(218, 93);
             this.groupBox1.TabIndex = 3;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Số lượng người dùng";
@@ -399,7 +399,7 @@ namespace diagnosisAnimal
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(724, 701);
+            this.ClientSize = new System.Drawing.Size(722, 701);
             this.Controls.Add(this.picImageSlideShow);
             this.Controls.Add(this.btnstart);
             this.Controls.Add(this.btnNext);

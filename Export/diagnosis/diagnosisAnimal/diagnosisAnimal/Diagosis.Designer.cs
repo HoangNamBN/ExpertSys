@@ -39,12 +39,12 @@ namespace diagnosisAnimal
             this.btnTiep = new System.Windows.Forms.Button();
             this.btnLamLai = new System.Windows.Forms.Button();
             this.btnKetThuc = new System.Windows.Forms.Button();
+            this.btnQuayLai = new System.Windows.Forms.Button();
             this.flowLayoutPanel2 = new System.Windows.Forms.FlowLayoutPanel();
             this.label2 = new System.Windows.Forms.Label();
             this.lblKetLuan = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.lblQuaTrinhSuyDien = new System.Windows.Forms.Label();
-            this.btnQuayLai = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -76,7 +76,7 @@ namespace diagnosisAnimal
             this.splitContainer1.Panel2.BackColor = System.Drawing.Color.White;
             this.splitContainer1.Panel2.Controls.Add(this.label3);
             this.splitContainer1.Panel2.Controls.Add(this.lblQuaTrinhSuyDien);
-            this.splitContainer1.Size = new System.Drawing.Size(904, 640);
+            this.splitContainer1.Size = new System.Drawing.Size(901, 640);
             this.splitContainer1.SplitterDistance = 394;
             this.splitContainer1.TabIndex = 0;
             // 
@@ -94,8 +94,8 @@ namespace diagnosisAnimal
             // splitContainer2.Panel2
             // 
             this.splitContainer2.Panel2.Controls.Add(this.flowLayoutPanel2);
-            this.splitContainer2.Size = new System.Drawing.Size(904, 394);
-            this.splitContainer2.SplitterDistance = 569;
+            this.splitContainer2.Size = new System.Drawing.Size(901, 394);
+            this.splitContainer2.SplitterDistance = 567;
             this.splitContainer2.TabIndex = 1;
             // 
             // pnlThuThapThongTin
@@ -109,7 +109,7 @@ namespace diagnosisAnimal
             this.pnlThuThapThongTin.Location = new System.Drawing.Point(0, 0);
             this.pnlThuThapThongTin.Name = "pnlThuThapThongTin";
             this.pnlThuThapThongTin.Padding = new System.Windows.Forms.Padding(10);
-            this.pnlThuThapThongTin.Size = new System.Drawing.Size(567, 392);
+            this.pnlThuThapThongTin.Size = new System.Drawing.Size(565, 392);
             this.pnlThuThapThongTin.TabIndex = 0;
             // 
             // label1
@@ -148,7 +148,7 @@ namespace diagnosisAnimal
             this.btnTiep.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnTiep.Location = new System.Drawing.Point(18, 3);
             this.btnTiep.Name = "btnTiep";
-            this.btnTiep.Size = new System.Drawing.Size(75, 32);
+            this.btnTiep.Size = new System.Drawing.Size(102, 32);
             this.btnTiep.TabIndex = 0;
             this.btnTiep.Text = "Tiếp";
             this.btnTiep.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -159,9 +159,9 @@ namespace diagnosisAnimal
             // 
             this.btnLamLai.Image = ((System.Drawing.Image)(resources.GetObject("btnLamLai.Image")));
             this.btnLamLai.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnLamLai.Location = new System.Drawing.Point(99, 3);
+            this.btnLamLai.Location = new System.Drawing.Point(126, 3);
             this.btnLamLai.Name = "btnLamLai";
-            this.btnLamLai.Size = new System.Drawing.Size(81, 32);
+            this.btnLamLai.Size = new System.Drawing.Size(106, 32);
             this.btnLamLai.TabIndex = 2;
             this.btnLamLai.Text = "Làm lại";
             this.btnLamLai.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
@@ -172,14 +172,27 @@ namespace diagnosisAnimal
             // 
             this.btnKetThuc.Image = ((System.Drawing.Image)(resources.GetObject("btnKetThuc.Image")));
             this.btnKetThuc.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnKetThuc.Location = new System.Drawing.Point(186, 3);
+            this.btnKetThuc.Location = new System.Drawing.Point(238, 3);
             this.btnKetThuc.Name = "btnKetThuc";
-            this.btnKetThuc.Size = new System.Drawing.Size(91, 32);
+            this.btnKetThuc.Size = new System.Drawing.Size(110, 32);
             this.btnKetThuc.TabIndex = 1;
             this.btnKetThuc.Text = "Kết thúc";
             this.btnKetThuc.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnKetThuc.UseVisualStyleBackColor = true;
             this.btnKetThuc.Click += new System.EventHandler(this.btnKetThuc_Click);
+            // 
+            // btnQuayLai
+            // 
+            this.btnQuayLai.Image = ((System.Drawing.Image)(resources.GetObject("btnQuayLai.Image")));
+            this.btnQuayLai.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnQuayLai.Location = new System.Drawing.Point(18, 41);
+            this.btnQuayLai.Name = "btnQuayLai";
+            this.btnQuayLai.Size = new System.Drawing.Size(102, 32);
+            this.btnQuayLai.TabIndex = 3;
+            this.btnQuayLai.Text = "Quay lại";
+            this.btnQuayLai.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnQuayLai.UseVisualStyleBackColor = true;
+            this.btnQuayLai.Click += new System.EventHandler(this.btnQuayLai_Click);
             // 
             // flowLayoutPanel2
             // 
@@ -191,7 +204,7 @@ namespace diagnosisAnimal
             this.flowLayoutPanel2.Location = new System.Drawing.Point(0, 0);
             this.flowLayoutPanel2.Name = "flowLayoutPanel2";
             this.flowLayoutPanel2.Padding = new System.Windows.Forms.Padding(10);
-            this.flowLayoutPanel2.Size = new System.Drawing.Size(329, 392);
+            this.flowLayoutPanel2.Size = new System.Drawing.Size(328, 392);
             this.flowLayoutPanel2.TabIndex = 0;
             // 
             // label2
@@ -231,19 +244,6 @@ namespace diagnosisAnimal
             this.lblQuaTrinhSuyDien.Name = "lblQuaTrinhSuyDien";
             this.lblQuaTrinhSuyDien.Size = new System.Drawing.Size(0, 17);
             this.lblQuaTrinhSuyDien.TabIndex = 3;
-            // 
-            // btnQuayLai
-            // 
-            this.btnQuayLai.Image = ((System.Drawing.Image)(resources.GetObject("btnQuayLai.Image")));
-            this.btnQuayLai.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnQuayLai.Location = new System.Drawing.Point(287, 3);
-            this.btnQuayLai.Name = "btnQuayLai";
-            this.btnQuayLai.Size = new System.Drawing.Size(83, 32);
-            this.btnQuayLai.TabIndex = 3;
-            this.btnQuayLai.Text = "Quay lại";
-            this.btnQuayLai.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnQuayLai.UseVisualStyleBackColor = true;
-            this.btnQuayLai.Click += new System.EventHandler(this.btnQuayLai_Click);
             // 
             // Diagosis
             // 
